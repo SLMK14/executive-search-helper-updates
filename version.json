@@ -1,13 +1,14 @@
 {
   "schema_version": 1,
-  "enabled": false,
+  "enabled": true,
   "latest_version": "1.0.1",
   "build": "2",
   "minimum_supported_version": "1.0.0",
   "release_date": "2026-04-29",
   "changelog": [
-    "Update publishing is temporarily disabled until a public release artifact is available."
+    "End-to-end updater test release.",
+    "Self-update flow available from Settings → Обновления."
   ],
-  "download_url": null,
-  "sha256": null
+  "download_url": "https://raw.githubusercontent.com/SLMK14/executive-search-helper-updates/main/releases/ExecutiveSearchHelper-1.0.1-2.zip",
+  "sha256": "2b7ca5745342c4deaf05866d21af8ca937e0721d693e6a0008eaaaa322896805"
 }
