@@ -1,12 +1,13 @@
 {
-  "enabled": false,
-  "latest_version": "1.0.0",
-  "build": "1",
+  "enabled": true,
+  "latest_version": "1.0.1",
+  "build": "2",
   "minimum_supported_version": "1.0.0",
   "release_date": "2026-04-29",
   "changelog": [
-    "Updater hosting smoke test. No installable update is published yet."
+    "Тестовая публикация v1.0.1.",
+    "Локальный smoke-тест установщика."
   ],
-  "download_url": null,
-  "sha256": null
+  "download_url": "http://localhost:8080/Update-1.0.1.zip",
+  "sha256": "903161469e93269e8b62f37bae7ac37dcd7ff1e77b2ab60ef7e80ee7251605a4"
 }
