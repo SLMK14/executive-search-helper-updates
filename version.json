@@ -1,13 +1,14 @@
 {
   "schema_version": 1,
-  "enabled": false,
-  "latest_version": "1.0.1",
-  "build": "2",
+  "enabled": true,
+  "latest_version": "1.0.2",
+  "build": "3",
   "minimum_supported_version": "1.0.0",
-  "release_date": "2026-04-29",
+  "release_date": "2026-04-30",
   "changelog": [
-    "Update publishing is temporarily disabled after the end-to-end updater test."
+    "Search candidate limit increased to 20 candidates per run.",
+    "Includes the latest search tuning and normalization improvements from the current Test Lab build."
   ],
-  "download_url": null,
-  "sha256": null
+  "download_url": "https://raw.githubusercontent.com/SLMK14/executive-search-helper-updates/main/releases/ExecutiveSearchHelper-1.0.2-3.zip",
+  "sha256": "e68d5d2acf873a6505cbeaed7ddebb12ab080822be78372f95565327b0fde360"
 }
